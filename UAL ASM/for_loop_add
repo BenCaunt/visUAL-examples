@@ -1,0 +1,3 @@
+;program loads to values into register R0 and R1 
+;R0 should be smaller than R1
+;
